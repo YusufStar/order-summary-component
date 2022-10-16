@@ -16,7 +16,7 @@ function App() {
           </div>
           <a href="#" className="mr-5 font-[700] desk:text-[15px] mobile:text-[11px] underline text-bright-blue hover:no-underline hover:opacity-80 transition-all duration-200">Change</a>
         </div>
-        <a className="w-[75%] h-[50px] rounded-xl bg-bright-blue shadow-xl mt-5 font-[700] text-[16px] text-white hover:opacity-80 transition-all duration-200 flex items-center justify-center">Proceed to Payment</a>
+        <a href="#" className="w-[75%] h-[50px] rounded-xl bg-bright-blue shadow-xl mt-5 font-[700] text-[16px] text-white hover:opacity-80 transition-all duration-200 flex items-center justify-center">Proceed to Payment</a>
         <h1 className="text-[15px] text-desaturated-blue mt-5 font-[900] hover:text-dark-blue cursor-pointer transition-all duration-200">Cancel Order</h1>
       </div>
     </div>
